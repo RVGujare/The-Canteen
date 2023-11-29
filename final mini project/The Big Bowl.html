@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Big Bowl</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Aboreto&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+            <div class="navbar">
+                <div class="logo">
+                    <img src="Images/logo.png" width="150px">
+                </div>
+                <nav>
+                    <ul id="menuitems">
+                        <li><a href="MiniProject.html">Home</a></li>
+                        <li><a href="Menu.html" target="_blank">Menu</a></li>
+                        <li><a href="Item_Details.html" target="_blank">Item_Details</a></li>
+                        <li><a href="acc.html" target="_blank">Sign in / Sign Up</a></li>
+                    </ul>
+                </nav>  
+                <a href="Cart.html" target="_blank"><img src="images/cartlogo3.png" class="cartlogo" width="30px" height="30px"></a>
+                <img src="images/menuicon.png" class="menu-icon" onclick="menutoggle()">
+            </div>
+            
+        </div>
+    </div>   
+<!--Main Menu-->
+
+
+
+    <div class="small-container">
+            <h2 class="title">Pizza's</h2>
+            <div class="row">
+                <div class="col-4">
+                    <img src="Images/marga  pizza.jpg">
+                    <h4>Margarita</h4>
+                    <p>Rs.100.00</p>
+                    <div class="rating">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    </div>
+                    <button class="add-cart">Add to cart</button>
+                </div>
+                <div class="col-4">
+                    <img src="Images/veggie delight pizza.jpg">
+                    <h4>Veggie Delight</h4>
+                    <p>Rs.120.00</p>
+                    <div class="rating">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    </div>
+                    <button class="add-cart">Add to cart</button>
+                </div>
+                <div class="col-4">
+                    <img src="Images/barbeque chicken pizza.jpg">
+                    <h4>Barbeque Chicken</h4>
+                    <p>Rs.150.00</p>
+                    <div class="rating">
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    <i class="fa fa-star" aria-hidden="true"></i>
+                    </div>
+                    <button class="add-cart">Add to cart</button>
+                </div>
+            </div>
+    
+            <div class="small-container">
+                <h2 class="title">Pasta</h2>
+                <div class="row">
+                    <div class="col-4">
+                        <img src="Images/tangy herbed pasta.jpg">
+                        <h4>Tangy Herbed Sos</h4>
+                        <p>Rs.120.00</p>
+                        <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        </div>
+                        <button class="add-cart">Add to cart</button>
+                    </div>
+                    <div class="col-4">
+                        <img src="Images/double cheese pasta.jpg">
+                        <h4>Double Cheese Sos</h4>
+                        <p>Rs.120.00</p>
+                        <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        </div>
+                        <button class="add-cart">Add to cart</button>
+                    </div>
+                    <div class="col-4">
+                        <img src="Images/pink pasta.jpg">
+                        <h4>Pink Sos</h4>
+                        <p>Rs.120.00</p>
+                        <div class="rating">
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        <i class="fa fa-star" aria-hidden="true"></i>
+                        </div>
+                        <button class="add-cart">Add to cart</button>
+                    </div>
+                </div>
+
+                <div class="small-container">
+                    <h2 class="title">Momos with special Chutney(5 pcs)</h2>
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="Images/veg momo.jpg">
+                            <h4>Veg</h4>
+                            <p>Rs.120.00</p>
+                            <div class="rating">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <button class="add-cart">Add to cart</button>
+                        </div>
+                        <div class="col-4">
+                            <img src="Images/chicken momo.jpg">
+                            <h4>Chicken</h4>
+                            <p>Rs.150.00</p>
+                            <div class="rating">
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            </div>
+                            <button class="add-cart">Add to cart</button>
+                        </div>
+                    </div>
+
+                    <div class="small-container">
+                        <h2 class="title">Just Like Maggie</h2>
+                        <div class="row">
+                            <div class="col-4">
+                                <img src="Images/masala maggie.jpg">
+                                <h4>Desi Masala</h4>
+                                <p>Rs.80.00</p>
+                                <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                </div>
+                                <button class="add-cart">Add to cart</button>
+                            </div>
+                            <div class="col-4">
+                                <img src="Images/Cheese-Maggi-.jpg">
+                                <h4>Chatpata Cheese</h4>
+                                <p>Rs.100.00</p>
+                                <div class="rating">
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                <i class="fa fa-star" aria-hidden="true"></i>
+                                </div>
+                                <button class="add-cart">Add to cart</button>
+                            </div>
+                        </div>
+
+                        <div class="small-container">
+                            <h2 class="title">Big Bang Burgers</h2>
+                            <div class="row">
+                                <div class="col-4">
+                                    <img src="Images/veggie maunch burger.jpg">
+                                    <h4>Veggie Manchurian</h4>
+                                    <p>Rs.100.00</p>
+                                    <div class="rating">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    </div>
+                                    <button class="add-cart">Add to cart</button>
+                                </div>
+                                <div class="col-4">
+                                    <img src="Images/desi kheema burger.jpg">
+                                    <h4>Desi Kheema</h4>
+                                    <p>Rs.100.00</p>
+                                    <div class="rating">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    </div>
+                                    <button class="add-cart">Add to cart</button>
+                                </div>
+                                <div class="col-4">
+                                    <img src="Images/anda chilli burgur.jpg">
+                                    <h4>Anda Chilli</h4>
+                                    <p>Rs.100.00</p>
+                                    <div class="rating">
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    <i class="fa fa-star" aria-hidden="true"></i>
+                                    </div>
+                                    <button class="add-cart">Add to cart</button>
+                                </div>
+                            </div>
+
+
+            
+    
+
+    
+
+
+    <!--Footer-->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download our App</h3>
+                    <p>Download App for Android and ios mobile phone</p>
+                    <img src="images/app logo3.png" width="140px" height="100px">
+                </div>
+                <div class="footer-col-2">
+                    <img src="images/app logo3.png" width="250px" height="100px">
+                    <p>Our Purpose is to sustainably make the food available easily to many.</p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>Coupons</li>
+                        <li>Blog Post</li>
+                        <li>Return Policy</li>
+                        <li>Terms & Conditions</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>FaceBook</li>
+                        <li>Instagram</li>
+                        <li>LinkedIn</li>
+                        <li>Twitter</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2022 - Easy Tutorial</p>
+        </div>
+    </div>
+    
+<!--js for togglemenu-->
+    <script>
+        var menuitems = document.getElementById("menuitems")
+        menuitems.style.maxHeight = "0px";
+
+        function menutoggle(){
+            if(menuitems.style.maxHeight == "0px")
+            {
+                menuitems.style.maxHeight = "200px";
+            }
+            else
+            {
+                menuitems.style.maxHeight = "0px";
+            }
+        }
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,584 @@
+2022-12-01  1:48:52 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01  1:48:52 0 [Note] InnoDB: Uses event mutexes
+2022-12-01  1:48:52 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01  1:48:52 0 [Note] InnoDB: Number of pools: 1
+2022-12-01  1:48:52 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01  1:48:52 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01  1:48:52 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01  1:48:52 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300288
+2022-12-01  1:48:52 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01  1:48:52 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-12-01  1:48:52 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01  1:48:52 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01  1:48:52 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01  1:48:52 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01  1:48:52 0 [Note] InnoDB: 10.4.27 started; log sequence number 300297; transaction id 170
+2022-12-01  1:48:52 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01  1:48:52 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01  1:48:52 0 [Note] Server socket created on IP: '::'.
+2022-12-01  1:48:52 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01  1:48:52 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01  1:48:52 0 [ERROR] Aborting
+2022-12-01  1:49:14 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01  1:49:14 0 [Note] InnoDB: Uses event mutexes
+2022-12-01  1:49:14 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01  1:49:14 0 [Note] InnoDB: Number of pools: 1
+2022-12-01  1:49:14 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01  1:49:14 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01  1:49:14 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01  1:49:14 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01  1:49:14 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01  1:49:14 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01  1:49:14 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01  1:49:14 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01  1:49:14 0 [Note] InnoDB: 10.4.27 started; log sequence number 300306; transaction id 170
+2022-12-01  1:49:14 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01  1:49:14 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01  1:49:14 0 [Note] Server socket created on IP: '::'.
+2022-12-01  1:49:14 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01  1:49:14 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01  1:49:14 0 [ERROR] Aborting
+2022-12-01  1:54:22 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01  1:54:22 0 [Note] InnoDB: Uses event mutexes
+2022-12-01  1:54:22 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01  1:54:22 0 [Note] InnoDB: Number of pools: 1
+2022-12-01  1:54:22 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01  1:54:22 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01  1:54:22 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01  1:54:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01  1:54:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01  1:54:22 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01  1:54:22 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01  1:54:22 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01  1:54:22 0 [Note] InnoDB: 10.4.27 started; log sequence number 300315; transaction id 170
+2022-12-01  1:54:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01  1:54:22 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01  1:54:22 0 [Note] Server socket created on IP: '::'.
+2022-12-01  1:54:22 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01  1:54:22 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01  1:54:22 0 [ERROR] Aborting
+2022-12-01  1:55:46 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01  1:55:46 0 [Note] InnoDB: Uses event mutexes
+2022-12-01  1:55:46 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01  1:55:46 0 [Note] InnoDB: Number of pools: 1
+2022-12-01  1:55:46 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01  1:55:46 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01  1:55:46 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01  1:55:46 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01  1:55:46 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01  1:55:46 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01  1:55:46 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01  1:55:46 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01  1:55:46 0 [Note] InnoDB: 10.4.27 started; log sequence number 300324; transaction id 170
+2022-12-01  1:55:46 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01  1:55:46 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01  1:55:46 0 [Note] Server socket created on IP: '::'.
+2022-12-01  1:55:46 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01  1:55:46 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01  1:55:46 0 [ERROR] Aborting
+2022-12-01 10:42:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 10:42:37 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 10:42:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 10:42:37 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 10:42:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 10:42:37 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 10:42:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 10:42:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 10:42:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 10:42:37 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 10:42:37 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 10:42:37 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 10:42:37 0 [Note] InnoDB: 10.4.27 started; log sequence number 300333; transaction id 170
+2022-12-01 10:42:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 10:42:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 10:42:37 0 [Note] Server socket created on IP: '::'.
+2022-12-01 10:42:37 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 10:42:37 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 10:42:37 0 [ERROR] Aborting
+2022-12-01 17:12:01 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 17:12:01 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 17:12:01 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 17:12:01 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 17:12:01 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 17:12:01 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 17:12:01 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 17:12:01 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 17:12:01 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 17:12:01 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 17:12:01 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 17:12:01 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 17:12:01 0 [Note] InnoDB: 10.4.27 started; log sequence number 300342; transaction id 170
+2022-12-01 17:12:01 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 17:12:01 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 17:12:01 0 [Note] InnoDB: Buffer pool(s) load completed at 221201 17:12:01
+2022-12-01 17:12:01 0 [Note] Server socket created on IP: '::'.
+2022-12-01 17:12:01 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 17:12:01 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 17:12:01 0 [ERROR] Aborting
+2022-12-01 19:15:59 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:15:59 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:15:59 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:15:59 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:15:59 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:15:59 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:15:59 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:15:59 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:15:59 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:15:59 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:15:59 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:15:59 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:15:59 0 [Note] InnoDB: 10.4.27 started; log sequence number 300351; transaction id 170
+2022-12-01 19:15:59 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:15:59 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:15:59 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:15:59 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:15:59 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:15:59 0 [ERROR] Aborting
+2022-12-01 19:16:04 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:16:04 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:16:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:16:04 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:16:04 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:16:04 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:16:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:16:04 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:16:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:16:04 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:16:04 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:16:04 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:16:04 0 [Note] InnoDB: 10.4.27 started; log sequence number 300360; transaction id 170
+2022-12-01 19:16:04 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:16:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:16:04 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:16:04 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:16:04 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:16:04 0 [ERROR] Aborting
+2022-12-01 19:28:22 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:28:22 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:28:22 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:28:22 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:28:22 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:28:22 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:28:22 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:28:22 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:28:22 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:28:22 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:28:22 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:28:22 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:28:22 0 [Note] InnoDB: 10.4.27 started; log sequence number 300369; transaction id 170
+2022-12-01 19:28:22 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:28:22 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:28:22 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:28:22 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:28:22 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:28:22 0 [ERROR] Aborting
+2022-12-01 19:29:44 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:29:44 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:29:44 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:29:44 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:29:44 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:29:44 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:29:44 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:29:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:29:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:29:44 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:29:44 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:29:44 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:29:44 0 [Note] InnoDB: 10.4.27 started; log sequence number 300378; transaction id 170
+2022-12-01 19:29:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:29:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:29:44 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:29:44 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:29:44 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:29:44 0 [ERROR] Aborting
+2022-12-01 19:47:19 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:47:19 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:47:19 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:47:19 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:47:19 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:47:19 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:47:19 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:47:19 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:47:19 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:47:19 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:47:19 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:47:19 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:47:19 0 [Note] InnoDB: 10.4.27 started; log sequence number 300387; transaction id 170
+2022-12-01 19:47:19 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:47:19 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:47:19 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:47:19 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:47:19 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:47:19 0 [ERROR] Aborting
+2022-12-01 19:52:06 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:52:06 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:52:06 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:52:06 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:52:06 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:52:06 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:52:06 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:52:06 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:52:06 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:52:06 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:52:06 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:52:06 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:52:06 0 [Note] InnoDB: 10.4.27 started; log sequence number 300396; transaction id 170
+2022-12-01 19:52:06 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:52:06 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:52:06 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:52:06 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:52:06 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:52:06 0 [ERROR] Aborting
+2022-12-01 19:52:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:52:38 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:52:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:52:38 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:52:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:52:38 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:52:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:52:38 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:52:38 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:52:38 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:52:38 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:52:38 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:52:38 0 [Note] InnoDB: 10.4.27 started; log sequence number 300405; transaction id 170
+2022-12-01 19:52:38 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:52:38 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:52:38 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:52:38 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:52:38 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:52:38 0 [ERROR] Aborting
+2022-12-01 19:58:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:58:37 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:58:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:58:37 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:58:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:58:37 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:58:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:58:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:58:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:58:37 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:58:37 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:58:37 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:58:37 0 [Note] InnoDB: 10.4.27 started; log sequence number 300414; transaction id 170
+2022-12-01 19:58:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:58:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:58:37 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:58:37 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:58:37 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:58:37 0 [ERROR] Aborting
+2022-12-01 19:59:08 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:59:08 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:59:08 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:59:08 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:59:08 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:59:08 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:59:08 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:59:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:59:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:59:08 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:59:08 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:59:08 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:59:08 0 [Note] InnoDB: 10.4.27 started; log sequence number 300423; transaction id 170
+2022-12-01 19:59:08 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:59:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:59:08 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:59:08 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:59:08 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:59:08 0 [ERROR] Aborting
+2022-12-01 19:59:13 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:59:13 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:59:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:59:13 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:59:13 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:59:13 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:59:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:59:13 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:59:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:59:13 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:59:13 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:59:13 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:59:13 0 [Note] InnoDB: 10.4.27 started; log sequence number 300432; transaction id 170
+2022-12-01 19:59:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:59:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:59:13 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:59:13 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:59:13 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:59:13 0 [ERROR] Aborting
+2022-12-01 19:59:17 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 19:59:17 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 19:59:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 19:59:17 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 19:59:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 19:59:17 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 19:59:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 19:59:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 19:59:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 19:59:17 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 19:59:17 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 19:59:17 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 19:59:17 0 [Note] InnoDB: 10.4.27 started; log sequence number 300441; transaction id 170
+2022-12-01 19:59:17 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 19:59:17 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 19:59:17 0 [Note] Server socket created on IP: '::'.
+2022-12-01 19:59:17 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 19:59:17 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 19:59:17 0 [ERROR] Aborting
+2022-12-01 20:14:05 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 20:14:05 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 20:14:05 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 20:14:05 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 20:14:05 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 20:14:05 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 20:14:05 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 20:14:05 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 20:14:05 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 20:14:05 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 20:14:05 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 20:14:05 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 20:14:05 0 [Note] InnoDB: 10.4.27 started; log sequence number 300450; transaction id 170
+2022-12-01 20:14:05 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 20:14:05 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 20:14:05 0 [Note] Server socket created on IP: '::'.
+2022-12-01 20:14:05 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 20:14:05 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 20:14:05 0 [ERROR] Aborting
+2022-12-01 20:16:12 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 20:16:12 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 20:16:12 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 20:16:12 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 20:16:12 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 20:16:12 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 20:16:12 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 20:16:12 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 20:16:12 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 20:16:12 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 20:16:12 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 20:16:12 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 20:16:12 0 [Note] InnoDB: 10.4.27 started; log sequence number 300459; transaction id 170
+2022-12-01 20:16:12 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 20:16:12 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 20:16:12 0 [Note] Server socket created on IP: '::'.
+2022-12-01 20:16:12 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 20:16:12 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 20:16:12 0 [ERROR] Aborting
+2022-12-01 20:16:23 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 20:16:23 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 20:16:23 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 20:16:23 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 20:16:23 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 20:16:23 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 20:16:23 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 20:16:23 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 20:16:23 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 20:16:23 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 20:16:23 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 20:16:23 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 20:16:23 0 [Note] InnoDB: 10.4.27 started; log sequence number 300468; transaction id 170
+2022-12-01 20:16:23 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 20:16:23 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 20:16:23 0 [Note] Server socket created on IP: '::'.
+2022-12-01 20:16:23 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 20:16:23 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 20:16:23 0 [ERROR] Aborting
+2022-12-01 22:29:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 22:29:53 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 22:29:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 22:29:53 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 22:29:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 22:29:53 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 22:29:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 22:29:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 22:29:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 22:29:53 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 22:29:53 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 22:29:53 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 22:29:53 0 [Note] InnoDB: 10.4.27 started; log sequence number 300477; transaction id 170
+2022-12-01 22:29:53 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 22:29:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 22:29:53 0 [Note] Server socket created on IP: '::'.
+2022-12-01 22:29:53 0 [Note] InnoDB: Buffer pool(s) load completed at 221201 22:29:53
+2022-12-01 23:15:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 23:15:43 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 23:15:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 23:15:43 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 23:15:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 23:15:43 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 23:15:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 23:15:43 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=300809
+2022-12-01 23:15:43 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 23:15:43 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2022-12-01 23:15:43 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 23:15:43 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 23:15:43 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 23:15:43 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 23:15:43 0 [Note] InnoDB: 10.4.27 started; log sequence number 300818; transaction id 193
+2022-12-01 23:15:43 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 23:15:43 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 23:15:43 0 [Note] InnoDB: Buffer pool(s) load completed at 221201 23:15:43
+2022-12-01 23:15:43 0 [Note] Server socket created on IP: '::'.
+2022-12-01 23:15:43 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2022-12-01 23:15:43 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2022-12-01 23:15:43 0 [ERROR] Aborting
+2022-12-01 23:16:10 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2022-12-01 23:16:10 0 [Note] InnoDB: Uses event mutexes
+2022-12-01 23:16:10 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2022-12-01 23:16:10 0 [Note] InnoDB: Number of pools: 1
+2022-12-01 23:16:10 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2022-12-01 23:16:10 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2022-12-01 23:16:10 0 [Note] InnoDB: Completed initialization of buffer pool
+2022-12-01 23:16:10 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2022-12-01 23:16:10 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2022-12-01 23:16:10 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2022-12-01 23:16:10 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2022-12-01 23:16:10 0 [Note] InnoDB: Waiting for purge to start
+2022-12-01 23:16:10 0 [Note] InnoDB: 10.4.27 started; log sequence number 300827; transaction id 193
+2022-12-01 23:16:10 0 [Note] Plugin 'FEEDBACK' is disabled.
+2022-12-01 23:16:10 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2022-12-01 23:16:10 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:00 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:00 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:00 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:00 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:00 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:00 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:00 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:00 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=332992
+2023-05-08 10:17:00 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:00 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-05-08 10:17:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:00 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:00 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:00 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:00 0 [Note] InnoDB: 10.4.27 started; log sequence number 333001; transaction id 274
+2023-05-08 10:17:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:01 0 [Note] InnoDB: Buffer pool(s) load completed at 230508 10:17:01
+2023-05-08 10:17:01 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:01 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:01 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:01 0 [ERROR] Aborting
+2023-05-08 10:17:13 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:13 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:13 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:13 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:13 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:13 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:13 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:13 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:13 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:13 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:13 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:13 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:13 0 [Note] InnoDB: 10.4.27 started; log sequence number 333010; transaction id 274
+2023-05-08 10:17:13 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:13 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:13 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:13 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:13 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:13 0 [ERROR] Aborting
+2023-05-08 10:17:17 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:17 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:17 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:17 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:17 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:17 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:17 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:17 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:17 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:17 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:17 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:17 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:18 0 [Note] InnoDB: 10.4.27 started; log sequence number 333019; transaction id 274
+2023-05-08 10:17:18 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:18 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:18 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:18 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:18 0 [ERROR] Aborting
+2023-05-08 10:17:25 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:25 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:25 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:25 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:25 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:25 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:25 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:25 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:25 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:25 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:25 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:25 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:25 0 [Note] InnoDB: 10.4.27 started; log sequence number 333028; transaction id 274
+2023-05-08 10:17:25 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:25 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:25 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:25 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:25 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:25 0 [Note] InnoDB: Buffer pool(s) load completed at 230508 10:17:25
+2023-05-08 10:17:25 0 [ERROR] Aborting
+2023-05-08 10:17:32 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:32 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:32 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:32 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:32 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:32 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:32 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:32 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:32 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:32 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:32 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:32 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:32 0 [Note] InnoDB: 10.4.27 started; log sequence number 333037; transaction id 274
+2023-05-08 10:17:32 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:32 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:32 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:32 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:32 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:32 0 [ERROR] Aborting
+2023-05-08 10:17:37 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-05-08 10:17:37 0 [Note] InnoDB: Uses event mutexes
+2023-05-08 10:17:37 0 [Note] InnoDB: Compressed tables use zlib 1.2.12
+2023-05-08 10:17:37 0 [Note] InnoDB: Number of pools: 1
+2023-05-08 10:17:37 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-05-08 10:17:37 0 [Note] InnoDB: Initializing buffer pool, total size = 16M, instances = 1, chunk size = 16M
+2023-05-08 10:17:37 0 [Note] InnoDB: Completed initialization of buffer pool
+2023-05-08 10:17:37 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-05-08 10:17:37 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-05-08 10:17:37 0 [Note] InnoDB: Setting file 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-05-08 10:17:37 0 [Note] InnoDB: File 'C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ibtmp1' size is now 12 MB.
+2023-05-08 10:17:37 0 [Note] InnoDB: Waiting for purge to start
+2023-05-08 10:17:37 0 [Note] InnoDB: 10.4.27 started; log sequence number 333046; transaction id 274
+2023-05-08 10:17:37 0 [Note] InnoDB: Loading buffer pool(s) from C:\Users\vikas\OneDrive\Documents\Rutuja\Mini project prachet\final mini project\New folder\mysql\data\ib_buffer_pool
+2023-05-08 10:17:37 0 [Note] InnoDB: Buffer pool(s) load completed at 230508 10:17:37
+2023-05-08 10:17:37 0 [Note] Plugin 'FEEDBACK' is disabled.
+2023-05-08 10:17:37 0 [Note] Server socket created on IP: '::'.
+2023-05-08 10:17:37 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-05-08 10:17:37 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-05-08 10:17:37 0 [ERROR] Aborting

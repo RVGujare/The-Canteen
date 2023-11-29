@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<script type="text/javascript" src="./home_page.js"></script>
+    <title>Home Page</title>
+</head>
+<body>
+    <nav id="navbar" class="nav">
+        <div id="logo">
+            <img src="./Images/logo.jpg">
+        </div>
+        
+        <ul>
+            <li class="item"><a href="index.html">Home</a></li>
+            <li class="item"><a href="">Login</a></li>
+            <li class="item"><a href="">Sign up</a></li>
+            <li class="item"><a href="">Menu</a></li>
+            <li class="item"><a href="">Cart</a></li>
+         </ul>
+        </nav>
+        
+        <section class="home">
+            <img class="image" src="./Images/home_screen_3.jpg">
+            <p id="header">Delicious food</p>
+            <p id="sub-header">Order before time!</p>
+            <div class="content">
+                <h1>TOP PICKS</h1>
+            </div>
+        </section>
+
+        <div class="slider">
+            <div class="slides">
+                <!--radio button start-->
+                <input type="radio" name="radio" class="radio-btn" id="radio1">
+                <input type="radio" name="radio" class="radio-btn" id="radio2">
+                <input type="radio" name="radio" class="radio-btn" id="radio3">
+                <!--radio button end-->
+                <!--slide images start-->
+                <div class="slide first">
+                    <img src="./Images/samosa.jpg">
+                </div>
+                <div class="slide">
+                    <img src="./Images/Masala-Dosa.jpg">
+                </div>
+                <div class="slide">
+                    <img src="./Images/fried-rice.jpg">
+                </div>
+                <!--slide images end-->
+                <!--automatic navigation start-->
+                <div class="navigation-auto">
+                    <div class="auto-btn1"></div>
+                    <div class="auto-btn2"></div>
+                    <div class="auto-btn3"></div>
+                </div>
+                <!--automatic navigation end-->
+            </div>
+            <!--manual navigation start-->
+            <div class="navigation-manual">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+            </div>
+            <!--manual navigation end-->
+        </div>
+        <!--Frequently asked questions start-->
+        <section class="faq">
+            <div class="container">
+                <div class="accordian">
+                    <p class="accordian-head">Frequently Asked Questions</p>
+                    <div class="accordian-item" id="question1">
+                        <a class="accordian-link" href="#question1">First Question
+                            <i class="icon ion-md-arrow-dropdown"></i>
+                            <i class="icon ion-md-arrow-dropup"></i>
+                        </a>
+                        <div class="answer">
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Saepe voluptatem reiciendis ipsa inventore aperiam tempore perspiciatis 
+                                voluptate possimus natus fugiat numquam maxime incidunt aspernatur qui 
+                                aut excepturi, facilis officiis suscipit.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="accordian-item" id="question2">
+                        <a class="accordian-link" href="#question2">Second Question
+                            <i class="icon ion-md-arrow-dropdown"></i>
+                            <i class="icon ion-md-arrow-dropup"></i>
+                        </a>
+                        <div class="answer">
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Saepe voluptatem reiciendis ipsa inventore aperiam tempore perspiciatis 
+                                voluptate possimus natus fugiat numquam maxime incidunt aspernatur qui 
+                                aut excepturi, facilis officiis suscipit.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="accordian-item" id="question3">
+                        <a class="accordian-link" href="#question3">Third Question
+                            <i class="icon ion-md-arrow-dropdown"></i>
+                            <i class="icon ion-md-arrow-dropup"></i>
+                        </a>
+                        <div class="answer">
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Saepe voluptatem reiciendis ipsa inventore aperiam tempore perspiciatis 
+                                voluptate possimus natus fugiat numquam maxime incidunt aspernatur qui 
+                                aut excepturi, facilis officiis suscipit.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="accordian-item" id="question4">
+                        <a class="accordian-link" href="#question4">Fourth Question
+                            <i class="icon ion-md-arrow-dropdown"></i>
+                            <i class="icon ion-md-arrow-dropup"></i>
+                        </a>
+                        <div class="answer">
+                            <p>
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                                Saepe voluptatem reiciendis ipsa inventore aperiam tempore perspiciatis 
+                                voluptate possimus natus fugiat numquam maxime incidunt aspernatur qui 
+                                aut excepturi, facilis officiis suscipit.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Frequently asked questions end-->
+        
+</body>
+</html>
